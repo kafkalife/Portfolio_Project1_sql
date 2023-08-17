@@ -1,7 +1,7 @@
 -- In this SQL Project I try to Query some of the important data(tables,numbers,etc) relating to the 
 -- covid pandemic through out the world right from January 2020 to July 2023. 
 --The data is taken from https://ourworldindata.org/covid-deaths
---It was arranged in to different .xlxs files namely Covid_deaths and Covid_Vaccinations.
+--It was arranged in two different Excel tables namely Covid_deaths and Covid_Vaccinations.
 -- This project was performed on SQL Server and edited on SQL Server Management Studios.
 
 
