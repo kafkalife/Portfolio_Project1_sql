@@ -5,14 +5,15 @@
 -- This project was performed on SQL Server and edited on SQL Server Management Studios.
 
 
--- This the first table which deals with covid deaths around the world.
+-- This is the first table which deals with covid deaths around the world.
 
 SELECT *
 FROM PortfolioProject..Covid_Deaths
 WHERE continent is not null
 ORDER BY 3,4
 
--- This the second table which deals with covid vaccinations around the world.
+-- This is the second table which deals with covid vaccinations around the world.
+
 -- SELECT *
 -- FROM PortfolioProject..Covid_Vaccinations
 -- WHERE continent is not null
